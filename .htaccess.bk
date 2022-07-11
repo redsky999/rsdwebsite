@@ -1,0 +1,97 @@
+
+<IfModule mod_rewrite.c>
+RewriteEngine On
+RewriteBase /
+RewriteRule ^index\.php$ - [L]
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule . /index.php [L]
+</IfModule>
+
+Redirect 301 /about.php /about/
+Redirect 301 /software-development.php /software-development/
+Redirect 301 /app-development.php /mobile-app-development/
+Redirect 301 /development-overview.php /sdlc-overview/
+Redirect 301 /development-skills.php /software-skills/
+Redirect 301 /software-programming.php /languages-and-styles/
+Redirect 301 /software-styles.php /project-methodologies/
+Redirect 301 /development-testing.php /our-qa-process/
+Redirect 301 /services.php /our-services/
+Redirect 301 /careers.php /careers/
+Redirect 301 /locations.php /contact/
+Redirect 301 /why-choose-us.php /why-our-customers-choose-to-work-with-us/
+Redirect 301 /choosing-the-right-cms.php /choosing-the-right-cms/
+Redirect 301 /cloud-hosting-solutions.php /selecting-the-right-cloud-hosting-solution-for-business/
+Redirect 301 /evolution-of-technology.php /evolution-of-technology-in-insurance-companies/
+Redirect 301 /mobile-app-development.php /mobile-app-development/
+Redirect 301 /pitfalls-development-partner.php /pitfalls-of-selecting-the-wrong-development-partner/
+Redirect 301 /rise-of-ai.php /the-rise-of-artificial-intelligence-where-will-it-end/
+Redirect 301 /fintech-trends-asia.php /fintech-trends-in-asia/
+Redirect 301 /recruitment.php /recruiting-the-right-tech-talent-for-app-or-software-development/
+Redirect 301 /steps-to-start.php /steps-to-start-a-new-technology-company/
+Redirect 301 /website-development.php /website-development/
+
+
+Redirect 301 /au/about.php /au/about/
+Redirect 301 /au/software-development.php /au/software-development/
+Redirect 301 /au/mobile-app-development.php /au/mobile-app-development/
+Redirect 301 /au/app-design.php /au/sdlc-overview/
+Redirect 301 /au/development-skills.php /au/software-skills/
+Redirect 301 /au/software-programming.php /au/languages-and-styles/
+Redirect 301 /au/software-styles.php /au/project-methodologies/
+Redirect 301 /au/development-testing.php /au/our-qa-process/
+Redirect 301 /au/services.php /au/our-services/
+Redirect 301 /au/careers.php /au/careers/
+Redirect 301 /au/locations.php /au/contact/
+Redirect 301 /au/amazoninfra.php /au/amazon-an-infrastructure-revolution/
+Redirect 301 /au/appdevscoping.php /au/7-key-questions-to-ask-when-scoping-an-app/
+Redirect 301 /au/balancingappdev.php /au/balancing-the-cost-of-application-development-options/
+Redirect 301 /au/blackberryreturns.php /au/blackberry-returns-from-the-cold/
+Redirect 301 /au/cybersecstocks.php /au/hot-cyber-security-stocks-november-2018/
+Redirect 301 /au/devops.php /au/dev-ops-explained-two-worlds-collide/
+Redirect 301 /au/extendedworkbench.php /au/benefits-of-an-extended-development-workbench/
+Redirect 301 /au/hybridmobile.php /au/comparison-of-hybrid-mobile-frameworks/
+Redirect 301 /au/locationtech.php /au/adoption-of-location-technologies-in-mobile-apps/
+Redirect 301 /au/offshoreproscons.php /au/pros-and-cons-of-offshore-development/
+Redirect 301 /au/website-development.php /au/website-development/
+			
+
+Redirect 301 /sg/about.php /sg/about/
+Redirect 301 /sg/software-development.php /sg/software-development/
+Redirect 301 /sg/mobile-app-development.php /sg/mobile-app-development/
+Redirect 301 /sg/app-design.php	/sg/sdlc-overview/
+Redirect 301 /sg/development-skills.php /sg/software-skills/
+Redirect 301 /sg/software-programming.php /sg/languages-and-styles/
+Redirect 301 /sg/software-styles.php /sg/project-methodologies/
+Redirect 301 /sg/development-testing.php /sg/our-qa-process/
+Redirect 301 /sg/services.php /sg/our-services/
+Redirect 301 /sg/website-development.php /sg/website-development/
+Redirect 301 /sg/careers.php /sg/careers/
+Redirect 301 /sg/locations.php /sg/contact/
+Redirect 301 /sg/7topoffshoredestinations.php /sg/7-top-offshore-app-development-destinations/
+Redirect 301 /sg/balancinggovernance.php /sg/balancing-governance-and-innovation/
+Redirect 301 /sg/blockchainandinsurance.php /sg/blockchain-and-insurance/
+Redirect 301 /sg/crmanddigital.php /sg/crm-digital-transformation/
+Redirect 301 /sg/enterprisedigitallab.php /sg/enterprise-digital-lab/
+Redirect 301 /sg/insurancedigitalage.php /sg/insurance-digital-age/
+Redirect 301 /sg/integrationmethods.php /sg/integration-methods/
+Redirect 301 /sg/managingadevteam.php /sg/managing-a-dev-team/
+Redirect 301 /sg/msazurecloud.php /sg/microsoft-azure-cloud/
+Redirect 301 /sg/wireframingtools.php /sg/wireframing-tools-techniques-quick-introduction/
+
+
+Redirect 301	/hk/about.php /hk/about/
+Redirect 301	/hk/software-development.php /hk/software-development/
+Redirect 301	/hk/mobile-app-development.php /hk/mobile-app-development/
+Redirect 301	/hk/app-design.php /hk/sdlc-overview/
+Redirect 301	/hk/development-skills.php /hk/software-skills/
+Redirect 301	/hk/software-programming.php /hk/languages-and-styles/
+Redirect 301	/hk/software-styles.php /hk/project-methodologies/
+Redirect 301	/hk/development-testing.php /hk/our-qa-process/
+Redirect 301	/hk/services.php /hk/our-services/
+Redirect 301	/hk/website-development.php /hk/website-development/
+Redirect 301	/hk/careers.php /hk/careers/
+Redirect 301	/hk/locations.php /hk/contact/
+			
+Redirect 301	/au/dev/developers.html https://au.redskydigital.com/developers.html
+Redirect 301	/uk/developers.html https://uk.redskydigital.com/developers.html

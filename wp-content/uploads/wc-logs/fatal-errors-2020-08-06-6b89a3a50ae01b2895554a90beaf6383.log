@@ -1,0 +1,22 @@
+2020-08-06T06:19:44+00:00 CRITICAL Uncaught Error: Call to a member function to_array() on null in /var/www/redskydigital.com/wp-content/plugins/contact-form-7/includes/rest-api.php:374
+Stack trace:
+#0 [internal function]: {closure}(Object(WPCF7_FormTag))
+#1 /var/www/redskydigital.com/wp-content/plugins/contact-form-7/includes/rest-api.php(378): array_map(Object(Closure), Array)
+#2 /var/www/redskydigital.com/wp-content/plugins/contact-form-7/includes/rest-api.php(232): wpcf7_get_properties_for_api(Object(WPCF7_ContactForm))
+#3 /var/www/redskydigital.com/wp-includes/rest-api/class-wp-rest-server.php(1015): wpcf7_rest_update_contact_form(Object(WP_REST_Request))
+#4 /var/www/redskydigital.com/wp-includes/rest-api/class-wp-rest-server.php(342): WP_REST_Server->dispatch(Object(WP_REST_Request))
+#5 /var/www/redskydigital.com/wp-includes/rest-api.php(312): WP_REST_Server->serve_request('/contact-form-7...')
+#6 /var/www/redskydigital.com/wp-includes/class-wp-hook.php(287): rest_api_loaded(Object(WP))
+#7 /var/www/redskydigital.com/wp-includes/class-wp- in /var/www/redskydigital.com/wp-content/plugins/contact-form-7/includes/rest-api.php on line 374
+
+2020-08-06T06:20:41+00:00 CRITICAL Uncaught Error: Call to a member function to_array() on null in /var/www/redskydigital.com/wp-content/plugins/contact-form-7/includes/rest-api.php:374
+Stack trace:
+#0 [internal function]: {closure}(Object(WPCF7_FormTag))
+#1 /var/www/redskydigital.com/wp-content/plugins/contact-form-7/includes/rest-api.php(378): array_map(Object(Closure), Array)
+#2 /var/www/redskydigital.com/wp-content/plugins/contact-form-7/includes/rest-api.php(232): wpcf7_get_properties_for_api(Object(WPCF7_ContactForm))
+#3 /var/www/redskydigital.com/wp-includes/rest-api/class-wp-rest-server.php(1015): wpcf7_rest_update_contact_form(Object(WP_REST_Request))
+#4 /var/www/redskydigital.com/wp-includes/rest-api/class-wp-rest-server.php(342): WP_REST_Server->dispatch(Object(WP_REST_Request))
+#5 /var/www/redskydigital.com/wp-includes/rest-api.php(312): WP_REST_Server->serve_request('/contact-form-7...')
+#6 /var/www/redskydigital.com/wp-includes/class-wp-hook.php(287): rest_api_loaded(Object(WP))
+#7 /var/www/redskydigital.com/wp-includes/class-wp- in /var/www/redskydigital.com/wp-content/plugins/contact-form-7/includes/rest-api.php on line 374
+

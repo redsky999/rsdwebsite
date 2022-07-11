@@ -1,0 +1,51 @@
+@import '../../../../assets/css/mixin';
+
+.widget_aheto {
+  $p: &;
+
+  &__cf--outsourceo__subscribe-simple {
+
+	#{$p}__form {
+	  .wpcf7 {
+		form p {
+		  position: relative;
+		  display: flex;
+		  margin-bottom: 0;
+		}
+		span {
+		  font: inherit;
+		  color: inherit;
+		  display: flex;
+		  margin-right: 10px;
+		  &.wpcf7-not-valid-tip {
+			position: absolute;
+			bottom: -27px;
+			left: 5px;
+		  }
+		}
+		input:not([type="submit"]) {
+		  padding: 0 70px 0 20px;
+		  border: none;
+		  width: 100%;
+		  font: inherit;
+		  color: var(--c-dark);
+		  max-width: 100%;
+		  box-shadow: none;
+		  border-radius: 5px;
+		  @include xs-size-max {
+			padding: 0 40px 0 20px;
+		  }
+		}
+		.ajax-loader {
+		  display: none;
+		}
+	  }
+	}
+
+	div.wpcf7-validation-errors,
+	div.wpcf7-acceptance-missing {
+	  border: 2px solid var(--c-active)!important;
+	}
+  }
+}
+

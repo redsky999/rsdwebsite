@@ -1,0 +1,914 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Outsourceo\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-12-18 10:13+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.3.1; wp-5.2.4"
+
+#: functions.php:26
+msgid "Primary menu"
+msgstr ""
+
+#: category.php:6 index.php:25 archive.php:7
+msgid "result found"
+msgstr ""
+
+#: category.php:6 index.php:25 archive.php:7
+msgid "results found"
+msgstr ""
+
+#: category.php:12 index.php:31 archive.php:13
+msgid "Showing results for "
+msgstr ""
+
+#: category.php:18 index.php:37 archive.php:19
+msgid "Blog"
+msgstr ""
+
+#: category.php:34 index.php:56 archive.php:35
+msgid "Sorry, no posts matched your criteria."
+msgstr ""
+
+#: 404.php:10
+msgid "OOPS!"
+msgstr ""
+
+#: 404.php:12
+msgid "404"
+msgstr ""
+
+#: 404.php:14
+msgid "Page not found"
+msgstr ""
+
+#: 404.php:16
+msgid "Go home"
+msgstr ""
+
+#: comments.php:21
+#, php-format
+msgctxt "comments"
+msgid "1 comment"
+msgid_plural "<span class=\"count\">%1$s Comments</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: comments.php:30
+msgid "Comment navigation"
+msgstr ""
+
+#: comments.php:31
+msgid "&larr; Older comments"
+msgstr ""
+
+#: comments.php:32
+msgid "Newer comments &rarr;"
+msgstr ""
+
+#: comments.php:40
+msgid "Your name"
+msgstr ""
+
+#: comments.php:41
+msgid "Your email"
+msgstr ""
+
+#: comments.php:47
+msgid "Your comment"
+msgstr ""
+
+#: comments.php:52
+msgid "Leave a comment"
+msgstr ""
+
+#: comments.php:53
+#, php-format
+msgid "Leave a reply to %s"
+msgstr ""
+
+#: comments.php:54
+msgid "Cancel"
+msgstr ""
+
+#: comments.php:55
+msgid "Submit Now"
+msgstr ""
+
+#: page.php:39 template-parts/blog-single.php:69
+msgid "Page:"
+msgstr ""
+
+#: searchform.php:3
+msgid "Search for:"
+msgstr ""
+
+#: searchform.php:4
+msgid "Keyword search..."
+msgstr ""
+
+#: searchform.php:5
+msgid "Search"
+msgstr ""
+
+#: include/aheto-shortcodes.php:34 include/aheto-shortcodes.php:221
+#: include/aheto-shortcodes.php:409 include/aheto-shortcodes.php:874
+#: include/aheto-shortcodes.php:989
+msgid "Outsourceo Simple"
+msgstr ""
+
+#: include/aheto-shortcodes.php:56
+msgid "Subtitle"
+msgstr ""
+
+#: include/aheto-shortcodes.php:57 include/aheto-shortcodes.php:59
+msgid "Add some text for Subtitle"
+msgstr ""
+
+#: include/aheto-shortcodes.php:63
+msgid "Element tag for Subtitle"
+msgstr ""
+
+#: include/aheto-shortcodes.php:79
+msgid "Use custom font for Subtitle?"
+msgstr ""
+
+#: include/aheto-shortcodes.php:93 include/aheto-shortcodes.php:1156
+#: include/aheto-shortcodes.php:1485 include/aheto-shortcodes.php:1584
+msgid "Use dot in the end title?"
+msgstr ""
+
+#: include/aheto-shortcodes.php:98
+msgid "Align for tablet"
+msgstr ""
+
+#: include/aheto-shortcodes.php:109
+msgid "Align for mobile"
+msgstr ""
+
+#: include/aheto-shortcodes.php:144
+msgid "Outsourceo Subscribe"
+msgstr ""
+
+#: include/aheto-shortcodes.php:149
+msgid "Outsourceo Single"
+msgstr ""
+
+#: include/aheto-shortcodes.php:154 include/aheto-shortcodes.php:226
+msgid "Outsourceo Classic"
+msgstr ""
+
+#: include/aheto-shortcodes.php:177
+msgid "Element tag for Title"
+msgstr ""
+
+#: include/aheto-shortcodes.php:193
+msgid "Full width input"
+msgstr ""
+
+#: include/aheto-shortcodes.php:231
+msgid "Outsourceo With Text"
+msgstr ""
+
+#: include/aheto-shortcodes.php:250 include/aheto-shortcodes.php:783
+msgid "Text"
+msgstr ""
+
+#: include/aheto-shortcodes.php:251 include/aheto-shortcodes.php:253
+msgid "Add some text for contacts"
+msgstr ""
+
+#: include/aheto-shortcodes.php:258 include/aheto-shortcodes.php:304
+msgid "Outsourceo Contacts"
+msgstr ""
+
+#: include/aheto-shortcodes.php:262
+msgid "Element tag for Heading"
+msgstr ""
+
+#: include/aheto-shortcodes.php:278 include/aheto-shortcodes.php:308
+msgid "Heading"
+msgstr ""
+
+#: include/aheto-shortcodes.php:282 include/aheto-shortcodes.php:312
+msgid "Address"
+msgstr ""
+
+#: include/aheto-shortcodes.php:286 include/aheto-shortcodes.php:316
+#: include/aheto-shortcodes.php:1032 include/aheto-shortcodes.php:1060
+msgid "Phone"
+msgstr ""
+
+#: include/aheto-shortcodes.php:291 include/aheto-shortcodes.php:321
+#: include/aheto-shortcodes.php:1033 include/aheto-shortcodes.php:1064
+msgid "Email"
+msgstr ""
+
+#: include/aheto-shortcodes.php:298
+msgid "Enable light version?"
+msgstr ""
+
+#: include/aheto-shortcodes.php:355 include/aheto-shortcodes.php:385
+#: include/aheto-shortcodes.php:1252 include/aheto-shortcodes.php:1283
+#: include/aheto-shortcodes.php:1367
+msgid "Outsourceo Creative"
+msgstr ""
+
+#: include/aheto-shortcodes.php:380
+msgid "Outsourceo Title With Search"
+msgstr ""
+
+#: include/aheto-shortcodes.php:414 include/aheto-shortcodes.php:562
+#: include/aheto-shortcodes.php:606 include/aheto-shortcodes.php:1362
+#: include/aheto-shortcodes.php:1460 include/aheto-shortcodes.php:1544
+#: include/aheto-shortcodes.php:1653
+msgid "Outsourceo Modern"
+msgstr ""
+
+#: include/aheto-shortcodes.php:432
+msgid "Symbol before Percentage"
+msgstr ""
+
+#: include/aheto-shortcodes.php:436
+msgid "Symbol after Percentage"
+msgstr ""
+
+#: include/aheto-shortcodes.php:440
+msgid "Use dot in the end number?"
+msgstr ""
+
+#: include/aheto-shortcodes.php:445
+msgid "Use custom font for numbers?"
+msgstr ""
+
+#: include/aheto-shortcodes.php:458 include/aheto-shortcodes.php:1074
+#: include/aheto-shortcodes.php:1593
+msgid "Align"
+msgstr ""
+
+#: include/aheto-shortcodes.php:482
+msgid "Outsourceo Team Member"
+msgstr ""
+
+#: include/aheto-shortcodes.php:502
+msgid "Use custom font for name?"
+msgstr ""
+
+#: include/aheto-shortcodes.php:516
+msgid "Use custom font for position?"
+msgstr ""
+
+#: include/aheto-shortcodes.php:576
+msgid "Max width for image section"
+msgstr ""
+
+#: include/aheto-shortcodes.php:591
+msgid "Aside Text"
+msgstr ""
+
+#: include/aheto-shortcodes.php:611
+msgid "Oursourceo Creative"
+msgstr ""
+
+#: include/aheto-shortcodes.php:616
+msgid "Oursourceo Single"
+msgstr ""
+
+#: include/aheto-shortcodes.php:621
+msgid "Outsourceo Modern without shadows"
+msgstr ""
+
+#: include/aheto-shortcodes.php:640
+msgid "Testimonials"
+msgstr ""
+
+#: include/aheto-shortcodes.php:644 include/aheto-shortcodes.php:645
+msgid "Blockquote"
+msgstr ""
+
+#: include/aheto-shortcodes.php:649 include/aheto-shortcodes.php:698
+#: include/aheto-shortcodes.php:705
+msgid "Testimonial"
+msgstr ""
+
+#: include/aheto-shortcodes.php:650 include/aheto-shortcodes.php:699
+#: include/aheto-shortcodes.php:706
+msgid "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+msgstr ""
+
+#: include/aheto-shortcodes.php:654 include/aheto-shortcodes.php:684
+#: include/aheto-shortcodes.php:710
+msgid "Display Image"
+msgstr ""
+
+#: include/aheto-shortcodes.php:658 include/aheto-shortcodes.php:688
+#: include/aheto-shortcodes.php:714
+msgid "Name"
+msgstr ""
+
+#: include/aheto-shortcodes.php:659 include/aheto-shortcodes.php:689
+#: include/aheto-shortcodes.php:715
+msgid "Author name"
+msgstr ""
+
+#: include/aheto-shortcodes.php:663 include/aheto-shortcodes.php:693
+#: include/aheto-shortcodes.php:719
+msgid "Position"
+msgstr ""
+
+#: include/aheto-shortcodes.php:664 include/aheto-shortcodes.php:694
+#: include/aheto-shortcodes.php:720
+msgid "Author position"
+msgstr ""
+
+#: include/aheto-shortcodes.php:670 include/aheto-shortcodes.php:1512
+msgid "Enable dark version?"
+msgstr ""
+
+#: include/aheto-shortcodes.php:675
+msgid "Background text"
+msgstr ""
+
+#: include/aheto-shortcodes.php:676
+msgid "THEY SAY"
+msgstr ""
+
+#: include/aheto-shortcodes.php:680
+msgid "Modern Testimonials Items"
+msgstr ""
+
+#: include/aheto-shortcodes.php:751
+msgid "Outsourceo Number List"
+msgstr ""
+
+#: include/aheto-shortcodes.php:755
+msgid "Outsourceo Simple List"
+msgstr ""
+
+#: include/aheto-shortcodes.php:760
+msgid "Outsourceo Table List"
+msgstr ""
+
+#: include/aheto-shortcodes.php:779
+msgid "Link Lists"
+msgstr ""
+
+#: include/aheto-shortcodes.php:787 include/aheto-shortcodes.php:1068
+msgid "Link"
+msgstr ""
+
+#: include/aheto-shortcodes.php:788
+msgid "Add url to list."
+msgstr ""
+
+#: include/aheto-shortcodes.php:798
+msgid "First Column Title"
+msgstr ""
+
+#: include/aheto-shortcodes.php:802
+msgid "Second Column Title"
+msgstr ""
+
+#: include/aheto-shortcodes.php:806
+msgid "Third Column Title"
+msgstr ""
+
+#: include/aheto-shortcodes.php:810
+msgid "Table Lists"
+msgstr ""
+
+#: include/aheto-shortcodes.php:814
+msgid "First Item Text"
+msgstr ""
+
+#: include/aheto-shortcodes.php:818
+msgid "Second Item Text"
+msgstr ""
+
+#: include/aheto-shortcodes.php:822
+msgid "Third Item Text"
+msgstr ""
+
+#: include/aheto-shortcodes.php:828 include/aheto-shortcodes.php:907
+msgid "Links color"
+msgstr ""
+
+#: include/aheto-shortcodes.php:834
+msgid "Background color"
+msgstr ""
+
+#: include/aheto-shortcodes.php:879
+msgid "Outsourceo Menu"
+msgstr ""
+
+#: include/aheto-shortcodes.php:922 include/aheto-shortcodes.php:939
+#: include/aheto-shortcodes.php:1205
+msgid "Add additional button?"
+msgstr ""
+
+#: include/aheto-shortcodes.php:957
+msgid "Outsourceo Socials"
+msgstr ""
+
+#: include/aheto-shortcodes.php:973
+msgid "Enable dark style for outsourceos?"
+msgstr ""
+
+#: include/aheto-shortcodes.php:994
+msgid "Outsourceo Additional (fixed on scroll)"
+msgstr ""
+
+#: include/aheto-shortcodes.php:1021
+msgid "Enable dark style for link?"
+msgstr ""
+
+#: include/aheto-shortcodes.php:1026
+msgid "Navigation Bar links"
+msgstr ""
+
+#: include/aheto-shortcodes.php:1030
+msgid "Type of link"
+msgstr ""
+
+#: include/aheto-shortcodes.php:1034
+msgid "Custom link"
+msgstr ""
+
+#: include/aheto-shortcodes.php:1035
+msgid "Just text"
+msgstr ""
+
+#: include/aheto-shortcodes.php:1036
+msgid "Searchbox"
+msgstr ""
+
+#: include/aheto-shortcodes.php:1037
+msgid "Languague picker"
+msgstr ""
+
+#: include/aheto-shortcodes.php:1042
+msgid "Add icon before label?"
+msgstr ""
+
+#: include/aheto-shortcodes.php:1048
+msgid "Type of icon"
+msgstr ""
+
+#: include/aheto-shortcodes.php:1050
+msgid "Solid"
+msgstr ""
+
+#: include/aheto-shortcodes.php:1051
+msgid "Outline"
+msgstr ""
+
+#: include/aheto-shortcodes.php:1056
+msgid "Label"
+msgstr ""
+
+#: include/aheto-shortcodes.php:1079
+msgid "Additional Menu"
+msgstr ""
+
+#: include/aheto-shortcodes.php:1081
+msgid "Use menu with one level items"
+msgstr ""
+
+#: include/aheto-shortcodes.php:1085
+msgid "Type of menu"
+msgstr ""
+
+#: include/aheto-shortcodes.php:1087 include/aheto-shortcodes.php:1164
+#: include/aheto-shortcodes.php:1493
+msgid "Dark"
+msgstr ""
+
+#: include/aheto-shortcodes.php:1088 include/aheto-shortcodes.php:1165
+#: include/aheto-shortcodes.php:1494
+msgid "White"
+msgstr ""
+
+#: include/aheto-shortcodes.php:1093
+msgid "Enable fixed additional menu on scroll?"
+msgstr ""
+
+#: include/aheto-shortcodes.php:1098
+msgid "Use custom font for Menu?"
+msgstr ""
+
+#: include/aheto-shortcodes.php:1123
+msgid "Outsourceo Creative slider"
+msgstr ""
+
+#: include/aheto-shortcodes.php:1128
+msgid "Outsourceo Faq"
+msgstr ""
+
+#: include/aheto-shortcodes.php:1144
+msgid "Slides"
+msgstr ""
+
+#: include/aheto-shortcodes.php:1148
+msgid "Image"
+msgstr ""
+
+#: include/aheto-shortcodes.php:1152 include/aheto-shortcodes.php:1479
+#: include/aheto-shortcodes.php:1580
+msgid "Title"
+msgstr ""
+
+#: include/aheto-shortcodes.php:1161 include/aheto-shortcodes.php:1490
+msgid "Color for dot"
+msgstr ""
+
+#: include/aheto-shortcodes.php:1163 include/aheto-shortcodes.php:1492
+msgid "Primary"
+msgstr ""
+
+#: include/aheto-shortcodes.php:1171 include/aheto-shortcodes.php:1589
+msgid "Description"
+msgstr ""
+
+#: include/aheto-shortcodes.php:1175 include/aheto-shortcodes.php:1598
+msgid "Buttons Direction"
+msgstr ""
+
+#: include/aheto-shortcodes.php:1177 include/aheto-shortcodes.php:1600
+msgid "Horizontal"
+msgstr ""
+
+#: include/aheto-shortcodes.php:1178 include/aheto-shortcodes.php:1601
+msgid "Vertical"
+msgstr ""
+
+#: include/aheto-shortcodes.php:1185
+msgid "Enable creative version?"
+msgstr ""
+
+#: include/aheto-shortcodes.php:1261
+msgid "Video Button Image"
+msgstr ""
+
+#: include/aheto-shortcodes.php:1310
+msgid "Outsourceo Metro"
+msgstr ""
+
+#: include/aheto-shortcodes.php:1328
+msgid "Disable post image?"
+msgstr ""
+
+#: include/aheto-shortcodes.php:1333 include/aheto-shortcodes.php:1409
+msgid "Use dot in the end heading?"
+msgstr ""
+
+#: include/aheto-shortcodes.php:1372
+msgid "Outsourceo With Image"
+msgstr ""
+
+#: include/aheto-shortcodes.php:1377
+msgid "Outsourceo With Background"
+msgstr ""
+
+#: include/aheto-shortcodes.php:1404
+msgid "Enable light style?"
+msgstr ""
+
+#: include/aheto-shortcodes.php:1414
+msgid "Link Text"
+msgstr ""
+
+#: include/aheto-shortcodes.php:1419
+msgid "Link URL"
+msgstr ""
+
+#: include/aheto-shortcodes.php:1424 include/aheto-shortcodes.php:1569
+msgid "Enable overlay for background image?"
+msgstr ""
+
+#: include/aheto-shortcodes.php:1429 include/aheto-shortcodes.php:1574
+msgid "Overlay Color"
+msgstr ""
+
+#: include/aheto-shortcodes.php:1435
+msgid "Image Logo"
+msgstr ""
+
+#: include/aheto-shortcodes.php:1445
+msgid "Images size for logo "
+msgstr ""
+
+#: include/aheto-shortcodes.php:1471
+msgid "Items"
+msgstr ""
+
+#: include/aheto-shortcodes.php:1475
+msgid "Date"
+msgstr ""
+
+#: include/aheto-shortcodes.php:1480
+msgid "To Hightlight text insert text between: [[ Your Text Here ]]"
+msgstr ""
+
+#: include/aheto-shortcodes.php:1481
+msgid "Title with [[ hightlight ]] text."
+msgstr ""
+
+#: include/aheto-shortcodes.php:1500
+msgid "Content"
+msgstr ""
+
+#: include/aheto-shortcodes.php:1501
+msgid "Add some text for content"
+msgstr ""
+
+#: include/aheto-shortcodes.php:1505
+msgid "Add image"
+msgstr ""
+
+#: include/aheto-shortcodes.php:1557
+msgid "Banners"
+msgstr ""
+
+#: include/aheto-shortcodes.php:1561
+msgid "Background Image"
+msgstr ""
+
+#: include/aheto-shortcodes.php:1565
+msgid "Additional Image"
+msgstr ""
+
+#: include/aheto-shortcodes.php:1626
+msgid "Images size for additional image"
+msgstr ""
+
+#: include/helper-function.php:15
+msgid "Pingback: "
+msgstr ""
+
+#: include/helper-function.php:16
+msgid "(Edit)"
+msgstr ""
+
+#: include/helper-function.php:37
+msgid "Reply"
+msgstr ""
+
+#: include/actions-config.php:53
+msgid "Sidebar"
+msgstr ""
+
+#: include/actions-config.php:55
+msgid "Add widgets here."
+msgstr ""
+
+#. If there are characters in your language that are not supported
+#. by chosen font(s), translate this to 'off'. Do not translate into your own language.
+#: include/actions-config.php:75
+msgctxt "Google font: on or off"
+msgid "on"
+msgstr ""
+
+#: include/actions-config.php:174
+msgid "Elementor"
+msgstr ""
+
+#: include/actions-config.php:208
+msgid "Contact Form 7"
+msgstr ""
+
+#: include/actions-config.php:224
+msgid "Qodeblock"
+msgstr ""
+
+#: include/actions-config.php:240
+msgid "WP Datepicker"
+msgstr ""
+
+#: include/actions-config.php:311
+msgid "Install Required Plugins"
+msgstr ""
+
+#: include/actions-config.php:312
+msgid "Install Plugins"
+msgstr ""
+
+#: include/actions-config.php:313
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: include/actions-config.php:315
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: include/actions-config.php:316
+#, php-format
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: include/actions-config.php:318
+#, php-format
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: include/actions-config.php:320
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to install the %s plugin. "
+"Contact the administrator of this site for help on getting the plugin "
+"installed."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to install the %s plugins."
+" Contact the administrator of this site for help on getting the plugins "
+"installed."
+msgstr[0] ""
+msgstr[1] ""
+
+#: include/actions-config.php:322
+#, php-format
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: include/actions-config.php:324
+#, php-format
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: include/actions-config.php:326
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to activate the %s plugin."
+" Contact the administrator of this site for help on getting the plugin "
+"activated."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to activate the %s "
+"plugins. Contact the administrator of this site for help on getting the "
+"plugins activated."
+msgstr[0] ""
+msgstr[1] ""
+
+#: include/actions-config.php:328
+#, php-format
+msgid ""
+"The following plugin needs to be updated to its latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgid_plural ""
+"The following plugins need to be updated to their latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: include/actions-config.php:330
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to update the %s plugin. "
+"Contact the administrator of this site for help on getting the plugin "
+"updated."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to update the %s plugins. "
+"Contact the administrator of this site for help on getting the plugins "
+"updated."
+msgstr[0] ""
+msgstr[1] ""
+
+#: include/actions-config.php:332
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: include/actions-config.php:333
+msgid "Activate installed plugin"
+msgid_plural "Activate installed plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: include/actions-config.php:334
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: include/actions-config.php:335
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: include/actions-config.php:336
+#, php-format
+msgid "All plugins installed and activated successfully. %s"
+msgstr ""
+
+#: include/actions-config.php:354
+msgid "Enter password below:"
+msgstr ""
+
+#: include/actions-config.php:355
+msgid "Password:"
+msgstr ""
+
+#: include/actions-config.php:356
+msgid "Submit"
+msgstr ""
+
+#: include/actions-config.php:356
+msgid "Enter"
+msgstr ""
+
+#: include/actions-config.php:371
+#, php-format
+msgid ""
+"Outsourceo theme needs minimal WordPress version 4.3 and PHP 5.6<br>You are "
+"running version WordPress - %s, PHP - %s.<br>Please upgrade need module and "
+"try again."
+msgstr ""
+
+#: include/actions-config.php:408
+msgid "Search.."
+msgstr ""
+
+#: template-parts/blog-list.php:58 template-parts/blog-list-category.php:46
+#: aheto/custom-post-types/skins/cs_skin-1.php:66
+msgid "by "
+msgstr ""
+
+#: template-parts/blog-list.php:75 template-parts/blog-list-category.php:63
+msgid "Previous"
+msgstr ""
+
+#: template-parts/blog-list.php:76 template-parts/blog-list-category.php:64
+msgid "Next"
+msgstr ""
+
+#: template-parts/blog-single.php:90 template-parts/blog-single.php:114
+msgid "No title"
+msgstr ""
+
+#: template-parts/blog-single.php:104
+msgid "Prev post"
+msgstr ""
+
+#: template-parts/blog-single.php:122
+msgid "Next post"
+msgstr ""
+
+#: template-parts/theme-footer.php:3
+msgid " &copy;"
+msgstr ""
+
+#: template-parts/theme-header.php:30
+msgid "Please register Top Navigation from"
+msgstr ""
+
+#: template-parts/theme-header.php:30
+msgid "Appearance &gt; Menus"
+msgstr ""
+
+#: aheto/custom-post-types/cs_layout1.php:69
+msgid "by"
+msgstr ""
+
+#: aheto/navigation/cs_layout1.php:73
+msgid "Menu"
+msgstr ""
+
+#: aheto/custom-post-types/skins/cs_skin-1.php:46
+msgid " in World"
+msgstr ""
+
+#. Name of the theme
+msgid "Outsourceo"
+msgstr ""
+
+#. Description of the theme
+msgid ""
+"A stunning visual experience for minimal loving creative. This template is a "
+"responsive and retina-ready WordPress theme with grid system layout. It is "
+"optimized for mobile touch and swipe."
+msgstr ""
+
+#. URI of the theme
+msgid "http://w4.themedemo.co/outsourceo"
+msgstr ""
+
+#. Author of the theme
+msgid "TRUETHEMES"
+msgstr ""
+
+#. Author URI of the theme
+msgid "https://themeforest.net/user/truethemes"
+msgstr ""

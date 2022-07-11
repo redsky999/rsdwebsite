@@ -1,0 +1,20 @@
+2021-09-29T03:56:05+00:00 CRITICAL Uncaught Error: Call to undefined function simplexml_load_file() in /mnt/www/redskydigital.com/wp-content/plugins/sitepress-multilingual-cms/vendor/otgs/installer/includes/class-wp-installer.php:894
+Stack trace:
+#0 /mnt/www/redskydigital.com/wp-content/plugins/sitepress-multilingual-cms/vendor/otgs/installer/includes/class-wp-installer.php(99): WP_Installer->load_repositories_list()
+#1 /mnt/www/redskydigital.com/wp-content/plugins/sitepress-multilingual-cms/vendor/otgs/installer/includes/class-wp-installer.php(80): WP_Installer->__construct()
+#2 /mnt/www/redskydigital.com/wp-content/plugins/sitepress-multilingual-cms/vendor/otgs/installer/includes/functions-core.php(6): WP_Installer::instance()
+#3 /mnt/www/redskydigital.com/wp-content/plugins/sitepress-multilingual-cms/vendor/otgs/installer/installer.php(15): WP_Installer()
+#4 /mnt/www/redskydigital.com/wp-content/plugins/sitepress-multilingual-cms/vendor/otgs/installer/loader.php(166): include_once('/mnt/www/redsky...')
+#5 /mnt/www/redskydigital.com/wp-inclu in /mnt/www/redskydigital.com/wp-content/plugins/sitepress-multilingual-cms/vendor/otgs/installer/includes/class-wp-installer.php on line 894
+
+2021-09-29T03:56:20+00:00 CRITICAL Uncaught Error: Call to undefined function simplexml_load_file() in /mnt/www/redskydigital.com/wp-content/plugins/sitepress-multilingual-cms/vendor/otgs/installer/includes/class-wp-installer.php:894
+Stack trace:
+#0 /mnt/www/redskydigital.com/wp-content/plugins/sitepress-multilingual-cms/vendor/otgs/installer/includes/class-wp-installer.php(99): WP_Installer->load_repositories_list()
+#1 /mnt/www/redskydigital.com/wp-content/plugins/sitepress-multilingual-cms/vendor/otgs/installer/includes/class-wp-installer.php(80): WP_Installer->__construct()
+#2 /mnt/www/redskydigital.com/wp-content/plugins/sitepress-multilingual-cms/vendor/otgs/installer/includes/functions-core.php(6): WP_Installer::instance()
+#3 /mnt/www/redskydigital.com/wp-content/plugins/sitepress-multilingual-cms/vendor/otgs/installer/installer.php(15): WP_Installer()
+#4 /mnt/www/redskydigital.com/wp-content/plugins/sitepress-multilingual-cms/vendor/otgs/installer/loader.php(166): include_once('/mnt/www/redsky...')
+#5 /mnt/www/redskydigital.com/wp-inclu in /mnt/www/redskydigital.com/wp-content/plugins/sitepress-multilingual-cms/vendor/otgs/installer/includes/class-wp-installer.php on line 894
+
+2021-09-29T04:15:38+00:00 CRITICAL Cannot redeclare filter_created_pages() (previously declared in /mnt/www/redskydigital.com/wp-content/plugins/woocommerce/includes/wc-update-functions.php:2281) in /mnt/www/redskydigital.com/wp-content/plugins/woocommerce/includes/wc-update-functions.php on line 2281
+

@@ -1,0 +1,27 @@
+[04-Apr-2021 02:10:08 UTC] PHP Notice:  Undefined index: host in /var/www/redskydigital.com/wp-includes/canonical.php on line 673
+[04-Apr-2021 02:10:08 UTC] PHP Notice:  Undefined index: host in /var/www/redskydigital.com/wp-includes/canonical.php on line 682
+[04-Apr-2021 02:10:08 UTC] PHP Notice:  Undefined index: host in /var/www/redskydigital.com/wp-includes/canonical.php on line 685
+[04-Apr-2021 02:11:46 UTC] PHP Notice:  Trying to access array offset on value of type bool in /var/www/redskydigital.com/wp-content/plugins/optimole-wp/inc/traits/normalizer.php on line 147
+[04-Apr-2021 02:11:46 UTC] PHP Notice:  Trying to access array offset on value of type bool in /var/www/redskydigital.com/wp-content/plugins/optimole-wp/inc/traits/normalizer.php on line 147
+[04-Apr-2021 02:11:46 UTC] PHP Notice:  Trying to access array offset on value of type bool in /var/www/redskydigital.com/wp-content/plugins/optimole-wp/inc/traits/normalizer.php on line 147
+[04-Apr-2021 02:11:46 UTC] PHP Notice:  Trying to access array offset on value of type bool in /var/www/redskydigital.com/wp-content/plugins/optimole-wp/inc/traits/normalizer.php on line 147
+[04-Apr-2021 02:11:46 UTC] PHP Notice:  Trying to access array offset on value of type bool in /var/www/redskydigital.com/wp-content/plugins/optimole-wp/inc/traits/normalizer.php on line 147
+[04-Apr-2021 02:12:52 UTC] PHP Notice:  Trying to access array offset on value of type bool in /var/www/redskydigital.com/wp-content/plugins/optimole-wp/inc/traits/normalizer.php on line 147
+[26-Nov-2021 08:20:40 UTC] PHP Notice:  Trying to access array offset on value of type bool in /mnt/www/redskydigital.com/wp-content/plugins/wp-word-count/public/class-wpwc-public.php on line 123
+[26-Nov-2021 08:20:40 UTC] PHP Notice:  Trying to access array offset on value of type bool in /mnt/www/redskydigital.com/wp-content/plugins/wp-word-count/public/class-wpwc-public.php on line 123
+[26-Nov-2021 08:21:56 UTC] PHP Notice:  Trying to access array offset on value of type bool in /mnt/www/redskydigital.com/wp-content/plugins/optimole-wp/inc/traits/normalizer.php on line 147
+[26-Nov-2021 08:21:56 UTC] PHP Notice:  Trying to access array offset on value of type bool in /mnt/www/redskydigital.com/wp-content/plugins/optimole-wp/inc/traits/normalizer.php on line 147
+[26-Nov-2021 08:21:56 UTC] PHP Notice:  Trying to access array offset on value of type bool in /mnt/www/redskydigital.com/wp-content/plugins/optimole-wp/inc/traits/normalizer.php on line 147
+[26-Nov-2021 08:21:56 UTC] PHP Notice:  Trying to access array offset on value of type bool in /mnt/www/redskydigital.com/wp-content/plugins/optimole-wp/inc/traits/normalizer.php on line 147
+[26-Nov-2021 08:21:56 UTC] PHP Notice:  Trying to access array offset on value of type bool in /mnt/www/redskydigital.com/wp-content/plugins/optimole-wp/inc/traits/normalizer.php on line 147
+[26-Nov-2021 08:22:02 UTC] PHP Notice:  Trying to access array offset on value of type bool in /mnt/www/redskydigital.com/wp-content/plugins/optimole-wp/inc/traits/normalizer.php on line 147
+[26-Nov-2021 08:22:18 UTC] PHP Notice:  Trying to access array offset on value of type bool in /mnt/www/redskydigital.com/wp-content/plugins/optimole-wp/inc/traits/normalizer.php on line 147
+[26-Nov-2021 08:22:18 UTC] PHP Notice:  Trying to access array offset on value of type bool in /mnt/www/redskydigital.com/wp-content/plugins/optimole-wp/inc/traits/normalizer.php on line 147
+[26-Nov-2021 08:22:18 UTC] PHP Notice:  Trying to access array offset on value of type bool in /mnt/www/redskydigital.com/wp-content/plugins/optimole-wp/inc/traits/normalizer.php on line 147
+[26-Nov-2021 08:22:18 UTC] PHP Notice:  Trying to access array offset on value of type bool in /mnt/www/redskydigital.com/wp-content/plugins/optimole-wp/inc/traits/normalizer.php on line 147
+[26-Nov-2021 08:22:18 UTC] PHP Notice:  Trying to access array offset on value of type bool in /mnt/www/redskydigital.com/wp-content/plugins/optimole-wp/inc/traits/normalizer.php on line 147
+[26-Nov-2021 08:23:50 UTC] PHP Notice:  Trying to access array offset on value of type bool in /mnt/www/redskydigital.com/wp-content/plugins/optimole-wp/inc/traits/normalizer.php on line 147
+[26-Nov-2021 08:23:50 UTC] PHP Notice:  Trying to access array offset on value of type bool in /mnt/www/redskydigital.com/wp-content/plugins/optimole-wp/inc/traits/normalizer.php on line 147
+[26-Nov-2021 08:23:50 UTC] PHP Notice:  Trying to access array offset on value of type bool in /mnt/www/redskydigital.com/wp-content/plugins/optimole-wp/inc/traits/normalizer.php on line 147
+[26-Nov-2021 08:23:50 UTC] PHP Notice:  Trying to access array offset on value of type bool in /mnt/www/redskydigital.com/wp-content/plugins/optimole-wp/inc/traits/normalizer.php on line 147
+[26-Nov-2021 08:23:50 UTC] PHP Notice:  Trying to access array offset on value of type bool in /mnt/www/redskydigital.com/wp-content/plugins/optimole-wp/inc/traits/normalizer.php on line 147

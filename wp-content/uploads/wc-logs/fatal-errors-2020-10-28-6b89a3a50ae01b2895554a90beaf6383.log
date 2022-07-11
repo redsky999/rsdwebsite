@@ -1,0 +1,70 @@
+2020-10-28T11:11:55+00:00 CRITICAL Uncaught TypeError: Argument 1 passed to cost_calculator_phpmailer_init() must be an instance of PHPMailer, instance of WPMailSMTP\MailCatcherV6 given, called in /var/www/redskydigital.com/wp-includes/class-wp-hook.php on line 287 and defined in /var/www/redskydigital.com/wp-content/plugins/ql-cost-calculator/ql-cost-calculator.php:864
+Stack trace:
+#0 /var/www/redskydigital.com/wp-includes/class-wp-hook.php(287): cost_calculator_phpmailer_init()
+#1 /var/www/redskydigital.com/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters()
+#2 /var/www/redskydigital.com/wp-includes/plugin.php(544): WP_Hook->do_action()
+#3 /var/www/redskydigital.com/wp-includes/pluggable.php(494): do_action_ref_array()
+#4 /var/www/redskydigital.com/wp-content/plugins/contact-form-7/includes/mail.php(135): wp_mail()
+#5 /var/www/redskydigital.com/wp-content/plugins/contact-form-7/includes/mail.php(19): WPCF7_Mail->compose()
+#6 /var/www/redskydigital.com/wp-content/plugins/contact-form-7/includes/submission.php(468): WPCF7_Mail::send() in /var/www/redskydigital.com/wp-content/plugins/ql-cost-calculator/ql-cost-calculator.php on line 864
+
+2020-10-28T11:16:13+00:00 CRITICAL Uncaught TypeError: Argument 1 passed to cost_calculator_phpmailer_init() must be an instance of PHPMailer, instance of WPMailSMTP\MailCatcherV6 given, called in /var/www/redskydigital.com/wp-includes/class-wp-hook.php on line 287 and defined in /var/www/redskydigital.com/wp-content/plugins/ql-cost-calculator/ql-cost-calculator.php:864
+Stack trace:
+#0 /var/www/redskydigital.com/wp-includes/class-wp-hook.php(287): cost_calculator_phpmailer_init()
+#1 /var/www/redskydigital.com/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters()
+#2 /var/www/redskydigital.com/wp-includes/plugin.php(544): WP_Hook->do_action()
+#3 /var/www/redskydigital.com/wp-includes/pluggable.php(494): do_action_ref_array()
+#4 /var/www/redskydigital.com/wp-content/plugins/contact-form-7/includes/mail.php(135): wp_mail()
+#5 /var/www/redskydigital.com/wp-content/plugins/contact-form-7/includes/mail.php(19): WPCF7_Mail->compose()
+#6 /var/www/redskydigital.com/wp-content/plugins/contact-form-7/includes/submission.php(468): WPCF7_Mail::send() in /var/www/redskydigital.com/wp-content/plugins/ql-cost-calculator/ql-cost-calculator.php on line 864
+
+2020-10-28T11:40:01+00:00 CRITICAL Uncaught TypeError: Argument 1 passed to cost_calculator_phpmailer_init() must be an instance of PHPMailer, instance of WPMailSMTP\MailCatcherV6 given, called in /var/www/redskydigital.com/wp-includes/class-wp-hook.php on line 287 and defined in /var/www/redskydigital.com/wp-content/plugins/ql-cost-calculator/ql-cost-calculator.php:864
+Stack trace:
+#0 /var/www/redskydigital.com/wp-includes/class-wp-hook.php(287): cost_calculator_phpmailer_init()
+#1 /var/www/redskydigital.com/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters()
+#2 /var/www/redskydigital.com/wp-includes/plugin.php(544): WP_Hook->do_action()
+#3 /var/www/redskydigital.com/wp-includes/pluggable.php(494): do_action_ref_array()
+#4 /var/www/redskydigital.com/wp-content/plugins/contact-form-7/includes/mail.php(135): wp_mail()
+#5 /var/www/redskydigital.com/wp-content/plugins/contact-form-7/includes/mail.php(19): WPCF7_Mail->compose()
+#6 /var/www/redskydigital.com/wp-content/plugins/contact-form-7/includes/submission.php(468): WPCF7_Mail::send() in /var/www/redskydigital.com/wp-content/plugins/ql-cost-calculator/ql-cost-calculator.php on line 864
+
+2020-10-28T11:40:43+00:00 CRITICAL Uncaught TypeError: Argument 1 passed to cost_calculator_phpmailer_init() must be an instance of PHPMailer, instance of WPMailSMTP\MailCatcherV6 given, called in /var/www/redskydigital.com/wp-includes/class-wp-hook.php on line 287 and defined in /var/www/redskydigital.com/wp-content/plugins/ql-cost-calculator/ql-cost-calculator.php:864
+Stack trace:
+#0 /var/www/redskydigital.com/wp-includes/class-wp-hook.php(287): cost_calculator_phpmailer_init()
+#1 /var/www/redskydigital.com/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters()
+#2 /var/www/redskydigital.com/wp-includes/plugin.php(544): WP_Hook->do_action()
+#3 /var/www/redskydigital.com/wp-includes/pluggable.php(494): do_action_ref_array()
+#4 /var/www/redskydigital.com/wp-content/plugins/wp-mail-smtp-pro/src/Admin/Pages/TestTab.php(172): wp_mail()
+#5 /var/www/redskydigital.com/wp-content/plugins/wp-mail-smtp-pro/src/Admin/Area.php(865): WPMailSMTP\Admin\Pages\TestTab->process_post()
+#6 /var/www/redskydigital.com/wp-includes/class-wp-hook.php(287): WPMai in /var/www/redskydigital.com/wp-content/plugins/ql-cost-calculator/ql-cost-calculator.php on line 864
+
+2020-10-28T11:47:01+00:00 CRITICAL Uncaught TypeError: Argument 1 passed to cost_calculator_phpmailer_init() must be an instance of PHPMailer, instance of WPMailSMTP\MailCatcherV6 given, called in /var/www/redskydigital.com/wp-includes/class-wp-hook.php on line 287 and defined in /var/www/redskydigital.com/wp-content/plugins/ql-cost-calculator/ql-cost-calculator.php:864
+Stack trace:
+#0 /var/www/redskydigital.com/wp-includes/class-wp-hook.php(287): cost_calculator_phpmailer_init()
+#1 /var/www/redskydigital.com/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters()
+#2 /var/www/redskydigital.com/wp-includes/plugin.php(544): WP_Hook->do_action()
+#3 /var/www/redskydigital.com/wp-includes/pluggable.php(494): do_action_ref_array()
+#4 /var/www/redskydigital.com/wp-content/plugins/wp-mail-smtp-pro/src/Admin/Pages/TestTab.php(172): wp_mail()
+#5 /var/www/redskydigital.com/wp-content/plugins/wp-mail-smtp-pro/src/Admin/Area.php(865): WPMailSMTP\Admin\Pages\TestTab->process_post()
+#6 /var/www/redskydigital.com/wp-includes/class-wp-hook.php(287): WPMai in /var/www/redskydigital.com/wp-content/plugins/ql-cost-calculator/ql-cost-calculator.php on line 864
+
+2020-10-28T11:51:37+00:00 CRITICAL Uncaught TypeError: Argument 1 passed to cost_calculator_phpmailer_init() must be an instance of PHPMailer, instance of WPMailSMTP\MailCatcherV6 given, called in /var/www/redskydigital.com/wp-includes/class-wp-hook.php on line 287 and defined in /var/www/redskydigital.com/wp-content/plugins/ql-cost-calculator/ql-cost-calculator.php:864
+Stack trace:
+#0 /var/www/redskydigital.com/wp-includes/class-wp-hook.php(287): cost_calculator_phpmailer_init()
+#1 /var/www/redskydigital.com/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters()
+#2 /var/www/redskydigital.com/wp-includes/plugin.php(544): WP_Hook->do_action()
+#3 /var/www/redskydigital.com/wp-includes/pluggable.php(494): do_action_ref_array()
+#4 /var/www/redskydigital.com/wp-content/plugins/contact-form-7/includes/mail.php(135): wp_mail()
+#5 /var/www/redskydigital.com/wp-content/plugins/contact-form-7/includes/mail.php(19): WPCF7_Mail->compose()
+#6 /var/www/redskydigital.com/wp-content/plugins/contact-form-7/includes/submission.php(468): WPCF7_Mail::send() in /var/www/redskydigital.com/wp-content/plugins/ql-cost-calculator/ql-cost-calculator.php on line 864
+
+2020-10-28T11:51:54+00:00 CRITICAL Uncaught TypeError: Argument 1 passed to cost_calculator_phpmailer_init() must be an instance of PHPMailer, instance of WPMailSMTP\MailCatcherV6 given, called in /var/www/redskydigital.com/wp-includes/class-wp-hook.php on line 287 and defined in /var/www/redskydigital.com/wp-content/plugins/ql-cost-calculator/ql-cost-calculator.php:864
+Stack trace:
+#0 /var/www/redskydigital.com/wp-includes/class-wp-hook.php(287): cost_calculator_phpmailer_init()
+#1 /var/www/redskydigital.com/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters()
+#2 /var/www/redskydigital.com/wp-includes/plugin.php(544): WP_Hook->do_action()
+#3 /var/www/redskydigital.com/wp-includes/pluggable.php(494): do_action_ref_array()
+#4 /var/www/redskydigital.com/wp-content/plugins/contact-form-7/includes/mail.php(135): wp_mail()
+#5 /var/www/redskydigital.com/wp-content/plugins/contact-form-7/includes/mail.php(19): WPCF7_Mail->compose()
+#6 /var/www/redskydigital.com/wp-content/plugins/contact-form-7/includes/submission.php(468): WPCF7_Mail::send() in /var/www/redskydigital.com/wp-content/plugins/ql-cost-calculator/ql-cost-calculator.php on line 864
+

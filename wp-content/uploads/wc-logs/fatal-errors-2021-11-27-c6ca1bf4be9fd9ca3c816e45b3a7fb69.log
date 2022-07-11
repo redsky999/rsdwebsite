@@ -1,0 +1,12 @@
+2021-11-27T01:59:57+00:00 CRITICAL Uncaught Error: Cannot access private property WP_Object_Cache::$blog_prefix in /mnt/www/redskydigital.com/wp-content/plugins/redis-cache/includes/diagnostics.php:67
+Stack trace:
+#0 /mnt/www/redskydigital.com/wp-content/plugins/redis-cache/includes/ui/tabs/diagnostics.php(13): require()
+#1 /mnt/www/redskydigital.com/wp-content/plugins/redis-cache/includes/ui/class-tab.php(167): include('/mnt/www/redsky...')
+#2 /mnt/www/redskydigital.com/wp-content/plugins/redis-cache/includes/ui/settings.php(59): Rhubarb\RedisCache\UI\Tab->display()
+#3 /mnt/www/redskydigital.com/wp-content/plugins/redis-cache/includes/class-plugin.php(195): require_once('/mnt/www/redsky...')
+#4 /mnt/www/redskydigital.com/wp-includes/class-wp-hook.php(303): Rhubarb\RedisCache\Plugin->show_admin_page()
+#5 /mnt/www/redskydigital.com/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters()
+#6 /mnt/www/redskydigital.com/wp-includes/plugin.php(470): WP_Hook->do_action()
+#7 /mnt/www/redskydigital.com/wp-admin/admin.php(259): do_action()
+#8 /mnt/ in /mnt/www/redskydigital.com/wp-content/plugins/redis-cache/includes/diagnostics.php on line 67
+

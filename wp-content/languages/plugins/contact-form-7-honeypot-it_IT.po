@@ -1,0 +1,84 @@
+# Translation of Plugins - Honeypot for Contact Form 7 - Development (trunk) in Italian
+# This file is distributed under the same license as the Plugins - Honeypot for Contact Form 7 - Development (trunk) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2020-12-27 19:13:19+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/3.0.0-alpha.2\n"
+"Language: it\n"
+"Project-Id-Version: Plugins - Honeypot for Contact Form 7 - Development (trunk)\n"
+
+#: honeypot.php:221
+msgid "This can be anything, but should be changed from the default generated \"honeypot\". For better security, change \"honeypot\" to something more appealing to a bot, such as text including \"email\" or \"website\"."
+msgstr "Questo può essere qualsiasi cosa, ma sarebbe meglio cambiarlo da quello generato in automatico \"honeypot\". Per una maggior sicurezza, cambia \"honeypot\" con qualcosa di più invitante per un bot, come un testo che includa \"email\" o \"sito web\"."
+
+#. Description of the plugin
+msgid "Add honeypot anti-spam functionality to the popular Contact Form 7 plugin."
+msgstr "Aggiungere le funzionalità antispam honeypot al popolare plugin Contact Form 7."
+
+#. Author URI of the plugin
+msgid "http://www.nocean.ca"
+msgstr "http://www.nocean.ca"
+
+#. Author of the plugin
+msgid "Nocean"
+msgstr "Nocean"
+
+#. Plugin URI of the plugin
+msgid "http://www.nocean.ca/plugins/honeypot-module-for-contact-form-7-wordpress-plugin/"
+msgstr "http://www.nocean.ca/plugins/honeypot-module-for-contact-form-7-wordpress-plugin/"
+
+#: honeypot.php:335
+msgid "Copy this code and paste it into the form left."
+msgstr "Copia questo codice e incollalo nel modulo di sinistra."
+
+#: honeypot.php:291
+msgid "Insert Tag"
+msgstr "Inserisci etichetta"
+
+#: honeypot.php:326
+msgid "If checked, the accessibility message will not be generated. <strong>This is not recommended</strong>. If you're unsure, leave this unchecked."
+msgstr "Se selezionato, il messaggio accessibilità non verrà generato. <strong> Questo non è raccomandato </strong>. Se non si è sicuri, non selezionare questo campo."
+
+#: honeypot.php:325
+msgid "Don't Use Accessibility Message (optional)"
+msgstr "Non usare Messaggio di Accessibilità (opzionale)"
+
+#: honeypot.php:236 honeypot.php:319
+msgid "Class (optional)"
+msgstr "Classe (opzionale)"
+
+#: honeypot.php:227 honeypot.php:315
+msgid "ID (optional)"
+msgstr "ID (opzionale)"
+
+#: honeypot.php:304
+msgid "For better security, change \"honeypot\" to something less bot-recognizable."
+msgstr "Per una migliore sicurezza, cambiare honeypot con qualcosa meno riconoscibile dai bot."
+
+#: honeypot.php:217 honeypot.php:302
+msgid "Name"
+msgstr "Nome"
+
+#: honeypot.php:208
+msgid "CF7 Honeypot"
+msgstr "CF7 Honeypot"
+
+#: honeypot.php:207
+msgid "Generate a form-tag for a spam-stopping honeypot field. For more details, see %s."
+msgstr "Generare un modulo-etichetta per un campo di blocco-spam di honeypot. Per maggiori dettagli, vedere %s."
+
+#: honeypot.php:198 honeypot.php:200
+msgid "Honeypot"
+msgstr "Honeypot "
+
+#: honeypot.php:126
+msgid "Please leave this field empty."
+msgstr "Si prega di lasciare vuoto questo campo."
+
+#: honeypot.php:67
+msgid "%s must be installed and activated for the CF7 Honeypot plugin to work"
+msgstr "%s deve essere installato ed attivato per far funzionare il plugin CF7 Honeypot"
